@@ -1,5 +1,6 @@
 # 👋 Hi there and welcome!
 ### My name Alexander and I am Android and web developer! I have my own web site ----> sevralt.github.io!
+![Profile Views](https://komarev.com/ghpvc/?username=sevralt&color=brightgreen)
 - 🔭 I’m currently working on Pixel Experience for OnePlus 6T
 - 🌱 I’m currently learning CSS and C+++
 - 📫 How to reach me: no way)
